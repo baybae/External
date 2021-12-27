@@ -472,3 +472,4 @@ function SnowStorm() {
 snowStorm = new SnowStorm(); 
 snowStorm.snowColor = '#fff'; // salju putih (silakan ganti dengan warna lain)
 
+</script>
